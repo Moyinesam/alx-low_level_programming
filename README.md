@@ -1,1 +1,1 @@
-**C** programming is the *bedrock* of *high level languages*. That's what I am currently learning.
+**C** programming is the *bedrock* of *high level languages*. That's what I am currently learning in my training
